@@ -1,5 +1,6 @@
 ---
 name: design-thinking-practitioner
+license: MIT
 description: >-
   Facilitate live IBM Enterprise Design Thinking sessions as an active practitioner — guiding teams through the Loop (Observe, Reflect, Make), authoring and pressure-testing Hills, running Playbacks, and recruiting Sponsor Users. Use this skill whenever the user wants to RUN or be GUIDED THROUGH a design thinking activity, not just read about one: kicking off a workshop, framing a problem, writing a Hill, planning a Playback, building empathy maps or personas, synthesizing research into insights, or aligning a team on user outcomes. Trigger it even when the user only says things like "help me run a design thinking session," "we need to frame this problem," "write a Hill for X," "plan a playback," "facilitate an ideation," or "how do we align the team on the user" — the user wants a facilitator who moves them forward, not an encyclopedia entry. Default to facilitating; if the user wants speed ("just write it"), produce the artifact directly while flagging any framing problems.
 ---
